@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Viaggi Disponibili!</h1>
+    <h1>Viaggi Disponibili!!!!!!!!</h1>
 
 
     @foreach ($trips as $trip)
